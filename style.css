@@ -2,6 +2,15 @@ body{
 	background-color: #a390d4;
 }
 
+.box{
+	align-items: center;
+	justify-content: center;
+	border: 3px solid white;
+	border-radius: 20px ;
+	/*background-image: url("aesthetic_background.jpg");*/
+	background-repeat: no-repeat;
+}
+
 .wrapper{
 	height: 100vh;
 	display: flex;
